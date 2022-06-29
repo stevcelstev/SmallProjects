@@ -1,3 +1,5 @@
+# Small Projects
+
 A repository dedicated for small projects
 
 The project that I currently have:
